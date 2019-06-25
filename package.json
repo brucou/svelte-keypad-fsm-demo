@@ -12,8 +12,10 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "kingly": "latest",
-    "emitonoff": "latest"
+    "kingly": "^0.19.3",
+    "emitonoff": "^0.1.0",
+    "keypad-fsm": "^0.2.0",
+    "svelte-machine": "^0.2.0"
   },
   "scripts": {
     "build": "rollup -c",
